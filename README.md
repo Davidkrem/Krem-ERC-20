@@ -1,13 +1,13 @@
 
 # **David Kremenitzer's KREM Token (ERC-20)**
 
-I build a **blockchain smart contract** and deployed my own Cryptocurrency **KREM**, an (ERC-20) coin on the Ethereum network through the crypto decentralized exchange **Uniswap**.
+This project contains a **blockchain smart contract** that was used to deploy a **new** cryptocurrency Token **KREM**, an (ERC-20) on the Ethereum network, and successfully traded through the crypto decentralized exchange **Uniswap**.
 \
 &nbsp;
 
 ### **Introduction**
 
-Using the Kovan Test Network - a public blockchain testing platform, I deployed my ERC-20 Ethereum token and sold KREM using my Metamask wallet. I used the Solidity language to build a smart contract and referenced the Ethereum documentation on ERC-20 Token Standards to create my functions and events. The code in the repo above was written and deployed exclusively in the browser with remix.ethereum.org
+Using the Kovan Test Network - a public blockchain testing platform, KREM's smart contract was approved with a transaction hash and timestamp. The total supply of KREM's was then saved in a Metamask wallet prior to deployement on Uniswap's pool. The Solidity language was used to build the smart contract. The Ethereum documentation on ERC-20 Token Standards was referenced to create all functions, events, and transfer protocal. The code in the repo above was written exclusively in chrome browser with remix.ethereum.org
 \
 &nbsp;
   [](#)
