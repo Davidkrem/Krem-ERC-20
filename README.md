@@ -31,5 +31,5 @@ Completed
 
 ### **View My Project**
 
-coming soon...youtube screencast walkthrough
+Project walkthrough : https://www.youtube.com/watch?v=9mvfxJ1pIr4
 
